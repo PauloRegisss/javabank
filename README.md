@@ -8,6 +8,12 @@ Atualmente o projeto possui uma estrutura inicial funcional com criação e list
 
 ---
 
+# Objetivo
+
+Este projeto foi criado para praticar desenvolvimento backend com Spring Boot, APIs REST e organização em camadas.
+
+---
+
 # Tecnologias Utilizadas
 
 * Java 21
@@ -60,7 +66,6 @@ POST /accounts
 }
 ```
 
----
 
 ## Listar Contas
 
@@ -78,7 +83,6 @@ GET /accounts
 git clone https://github.com/PauloRegisss/javabank.git
 ```
 
----
 
 ## Entrar na pasta
 
@@ -86,7 +90,6 @@ git clone https://github.com/PauloRegisss/javabank.git
 cd javabank
 ```
 
----
 
 ## Rodar aplicação
 
@@ -96,7 +99,6 @@ Windows:
 .\\gradlew bootRun
 ```
 
----
 
 ## Acessar API
 
@@ -106,6 +108,3 @@ http://localhost:8080/accounts
 
 ---
 
-# Objetivo
-
-Este projeto foi criado para praticar desenvolvimento backend com Spring Boot, APIs REST e organização em camadas.
