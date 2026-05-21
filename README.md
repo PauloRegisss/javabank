@@ -1,5 +1,6 @@
 # JavaBank — Backend Bancário com Spring Boot
 
+
 ## Visão Geral
 
 JavaBank é um projeto backend desenvolvido com Java e Spring Boot com foco em aprendizado de APIs REST e arquitetura backend.
