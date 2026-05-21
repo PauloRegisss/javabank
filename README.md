@@ -108,4 +108,4 @@ http://localhost:8080/accounts
 
 # Objetivo
 
-Este projeto foi criado para praticar desenvolvimento backend com Spring Boot, APIs RE
+Este projeto foi criado para praticar desenvolvimento backend com Spring Boot, APIs REST e organização em camadas.
