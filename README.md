@@ -109,3 +109,8 @@ http://localhost:8080/accounts
 
 ---
 
+## Status do Projeto
+
+🚧 Projeto em desenvolvimento contínuo.  
+Novas funcionalidades serão adicionadas conforme a evolução dos estudos e aprendizado em backend Java.
+
